@@ -1,3 +1,3 @@
 # ProductScannerDemo
 
-Skill test - Practical Test
+Skill Test - Practical Test
